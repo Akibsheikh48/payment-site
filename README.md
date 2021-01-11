@@ -1,3 +1,3 @@
-click this link https://payment-site-akib.web.app/
+ link https://payment-site-akib.web.app/
 '
 RUN 
